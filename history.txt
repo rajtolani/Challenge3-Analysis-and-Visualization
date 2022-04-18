@@ -1,0 +1,40 @@
+    1  conda activate dev
+    2  cd c:/
+    3  cd RajB*
+    4  cd Challenge-3
+    5  cd start*
+    6  ls
+    7  cd St*
+    8  ls
+    9  git config --global user.name Raj Tolani
+   10  git config --global user.email admin@tolanicollection.com
+   11  git config --list
+   12  git clone https://github.com/rajtolani/Challenge3-Analysis-and-Visualization.git
+   13  ls
+   14  git status
+   15  cd Ch*
+   16  git status
+   17  git add .
+   18  git status
+   19  git commit -m "This version has the original starter files provided by the Fintech BootCamp Staff"
+   20  git push
+   21  jupyter lab
+   22  git status
+   23  add crypto_arbitrage.ipynb
+   24  git add crypto_arbitrage.ipynb
+   25  git commit -m "Intermediate Version. Has most of the logic. Taking a break. Will finish Later"
+   26  git push
+   27  pwd
+   28  ls
+   29  git status
+   30  git add crypto_arbitrage.ipynb
+   31  git commit -m "All coding Complete in this version, Need to review the code, comments and plots one more time before final submission"
+   32  git push
+   33  python --version
+   34  git status
+   35  git add README.md
+   36  git add crypto_arbitrage.ipynb
+   37  git status
+   38  git commit -m "Ready for final submission. May do one more review late evening and do another submission if I make any changes."
+   39  git push
+   40  history >history.txt
